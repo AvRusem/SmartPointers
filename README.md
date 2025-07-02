@@ -1,7 +1,5 @@
 # SmartPointer
 
-## ENGLISH
-
 This repository contains educational implementations of smart pointers in C++, including:
 
 - `UniquePtr<T>` – exclusive ownership smart pointer (non-copyable, movable).
