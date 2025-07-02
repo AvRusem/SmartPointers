@@ -1,4 +1,4 @@
-# SmartPointer
+# SmartPointers
 
 This repository contains educational implementations of smart pointers in C++, including:
 
